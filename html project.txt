@@ -1,0 +1,56 @@
+<html>
+<head><title>Booking Management System</title>
+<style>
+font{background-color:#E3F6CE;Font-size:70px;Font-family:jokerman;}
+
+</style></head><body bgcolor=" grey">
+<center><font >BOOK YOUR SHOW</font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="file:///C:/Users/ASUS/OneDrive/Documents/abcd.html"><IMG SRC="C:\Users\ASUS\Downloads\21.jpg" height=25 width=15>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<IMG SRC="C:\Users\ASUS\Downloads\22.jpg" height=25 width=15></a>
+<br><br><br>
+<center><h1>Recommended Movies</h1></center><marquee direction="left">
+<IMG SRC="C:\Users\ASUS\Downloads\1.jpg" height=400 width=700>
+<img src="C:\Users\ASUS\Downloads\2.jpg" height=400 width=700>
+<img src="C:\Users\ASUS\Downloads\6.jpg" height=400 width=700>
+<img src="C:\Users\ASUS\Downloads\3,JPG.jpg" height=400 width=700>
+<img src="C:\Users\ASUS\Downloads\5.jpg"height=400 width=700>
+<img src="C:\Users\ASUS\Downloads\4.jpg"height=400 width=700></marquee>
+<form>
+<select name="CINEMAS">
+<option>CINEMAS</option>
+<option>PVR CURO</option>
+<option>SARB MULTIPLEX</option>
+<option>INOX</option>
+<option>CINEPAX</option>
+<option>PVR MBD NEPOLIS</option>
+<select></form>
+<form>
+<select name="TIMINGS">
+<option>TIMINGS</option>
+<option>8:00am to 9:30am</option>
+<option>10:00am to 11:30am</option>
+<option>12:00pm to 1:30pm</option>
+<option>2:00pm to 2:30pm</option>
+<option>3:00pm to 4:30pm</option>
+<select></form>
+<center><a href="file:///C:/Users/ASUS/OneDrive/Documents/link1.html">
+<img src="C:\Users\ASUS\Downloads\7.jpg"height=400 width=200></a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="file:///C:/Users/ASUS/OneDrive/Documents/link2.html">
+<img src="C:\Users\ASUS\Downloads\9.jpg"height=400 width=200></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="file:///C:/Users/ASUS/OneDrive/Documents/link3.html">
+<img src="C:\Users\ASUS\Downloads\2.jpg"height=400 width=200></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="file:///C:/Users/ASUS/OneDrive/Documents/link4.html">
+<img src="C:\Users\ASUS\Downloads\11.jpg"height=400 width=200></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="file:///C:/Users/ASUS/OneDrive/Documents/link5.html">
+<img src="C:\Users\ASUS\Downloads\12.jpg"height=400 width=200></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</center><br><br><br><br>
+
+
+<b>
+CONTACT US:-1. +9988776655 , +7766554433</center></b>
+
+</body>
+
+
+</head>
+</html>
